@@ -1,0 +1,10 @@
+{
+    "chat.agent.maxRequests": 10000,
+    "chat.mcp.gallery.enabled": true,
+    "chat.todoListTool.writeOnly": true,
+    "chat.tools.terminal.autoReplyToPrompts": true,
+    "chat.useNestedAgentsMdFiles": true,
+    "inlineChat.enableV2": true,
+    "inlineChat.lineEmptyHint": true,
+    "inlineChat.notebookAgent": true
+}
